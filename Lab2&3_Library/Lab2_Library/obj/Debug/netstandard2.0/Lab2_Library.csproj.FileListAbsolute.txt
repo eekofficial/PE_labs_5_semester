@@ -1,0 +1,9 @@
+C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\bin\Debug\netstandard2.0\Lab2_Library.deps.json
+C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\bin\Debug\netstandard2.0\Lab2_Library.dll
+C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\bin\Debug\netstandard2.0\Lab2_Library.pdb
+C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.csproj.CoreCompileInputs.cache
+C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.AssemblyInfoInputs.cache
+C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.AssemblyInfo.cs
+C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.dll
+C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.pdb
+C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.csprojAssemblyReference.cache
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.Form1.resources
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.Properties.Resources.resources
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.csproj.GenerateResource.cache
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.csproj.CoreCompileInputs.cache
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab3_Korotaev.exe.config
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab3_Korotaev.exe
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab3_Korotaev.pdb
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.exe
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.pdb
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab2_Library.dll
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab2_Library.pdb
+C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.csproj.CopyComplete

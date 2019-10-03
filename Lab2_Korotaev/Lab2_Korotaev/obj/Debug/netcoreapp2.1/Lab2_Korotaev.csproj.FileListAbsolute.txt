@@ -1,0 +1,14 @@
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\bin\Debug\netcoreapp2.1\Lab2_Korotaev.deps.json
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\bin\Debug\netcoreapp2.1\Lab2_Korotaev.runtimeconfig.json
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\bin\Debug\netcoreapp2.1\Lab2_Korotaev.runtimeconfig.dev.json
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\bin\Debug\netcoreapp2.1\Lab2_Korotaev.dll
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\bin\Debug\netcoreapp2.1\Lab2_Korotaev.pdb
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\obj\Debug\netcoreapp2.1\Lab2_Korotaev.csprojAssemblyReference.cache
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\obj\Debug\netcoreapp2.1\Lab2_Korotaev.csproj.CoreCompileInputs.cache
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\obj\Debug\netcoreapp2.1\Lab2_Korotaev.AssemblyInfoInputs.cache
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\obj\Debug\netcoreapp2.1\Lab2_Korotaev.AssemblyInfo.cs
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\obj\Debug\netcoreapp2.1\Lab2_Korotaev.dll
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\obj\Debug\netcoreapp2.1\Lab2_Korotaev.pdb
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\bin\Debug\netcoreapp2.1\Lab2_Library.dll
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\bin\Debug\netcoreapp2.1\Lab2_Library.pdb
+C:\Users\eek\source\repos\Lab2_Korotaev\Lab2_Korotaev\obj\Debug\netcoreapp2.1\Lab2_Korotaev.csproj.CopyComplete
