@@ -1,0 +1,13 @@
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\bin\Debug\Lab4_Korotaev.exe.config
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\bin\Debug\Lab4_Korotaev.exe
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\bin\Debug\Lab4_Korotaev.pdb
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\obj\Debug\Lab4_Korotaev.csprojAssemblyReference.cache
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\obj\Debug\Lab4_Korotaev.Form1.resources
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\obj\Debug\Lab4_Korotaev.Form2.resources
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\obj\Debug\Lab4_Korotaev.Properties.Resources.resources
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\obj\Debug\Lab4_Korotaev.csproj.GenerateResource.cache
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\obj\Debug\Lab4_Korotaev.csproj.CoreCompileInputs.cache
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\obj\Debug\Lab4_Korotaev.exe
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\obj\Debug\Lab4_Korotaev.pdb
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\obj\Debug\Lab4_Korotaev.AboutBox1.resources
+C:\Users\eek\source\repos\Lab4_Korotaev\Lab4_Korotaev\obj\Debug\Lab4_Korotaev.Form3.resources
