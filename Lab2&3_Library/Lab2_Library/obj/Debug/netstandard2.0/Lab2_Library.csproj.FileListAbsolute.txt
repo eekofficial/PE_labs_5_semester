@@ -7,3 +7,11 @@ C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab
 C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.dll
 C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.pdb
 C:\Users\eek\source\repos\Lab2_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.csprojAssemblyReference.cache
+Z:\mpei\PE_labs_5_semester\Lab2&3_Library\Lab2_Library\bin\Debug\netstandard2.0\Lab2_Library.deps.json
+Z:\mpei\PE_labs_5_semester\Lab2&3_Library\Lab2_Library\bin\Debug\netstandard2.0\Lab2_Library.dll
+Z:\mpei\PE_labs_5_semester\Lab2&3_Library\Lab2_Library\bin\Debug\netstandard2.0\Lab2_Library.pdb
+Z:\mpei\PE_labs_5_semester\Lab2&3_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.csprojAssemblyReference.cache
+Z:\mpei\PE_labs_5_semester\Lab2&3_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.AssemblyInfoInputs.cache
+Z:\mpei\PE_labs_5_semester\Lab2&3_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.AssemblyInfo.cs
+Z:\mpei\PE_labs_5_semester\Lab2&3_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.dll
+Z:\mpei\PE_labs_5_semester\Lab2&3_Library\Lab2_Library\obj\Debug\netstandard2.0\Lab2_Library.pdb

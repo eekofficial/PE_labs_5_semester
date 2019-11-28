@@ -1,0 +1,17 @@
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\bin\Debug\Lab7_Korotaev.exe.config
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\bin\Debug\Lab7_Korotaev.exe
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\bin\Debug\Lab7_Korotaev.pdb
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\Lab7_Korotaev.csprojAssemblyReference.cache
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\MainWindow.g.cs
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\App.g.cs
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\Lab7_Korotaev_MarkupCompile.cache
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\Lab7_Korotaev_MarkupCompile.lref
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\MainWindow.baml
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\Lab7_Korotaev.g.resources
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\Lab7_Korotaev.Properties.Resources.resources
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\Lab7_Korotaev.csproj.GenerateResource.cache
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\Lab7_Korotaev.exe
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\Lab7_Korotaev.pdb
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\bin\Debug\Lab2_Library.dll
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\bin\Debug\Lab2_Library.pdb
+C:\Users\eek\source\repos\Lab7_Korotaev\Lab7_Korotaev\obj\Debug\Lab7_Korotaev.csproj.CopyComplete

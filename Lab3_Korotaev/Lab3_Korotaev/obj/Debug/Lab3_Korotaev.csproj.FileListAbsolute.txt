@@ -11,3 +11,15 @@ C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.pd
 C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab2_Library.dll
 C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab2_Library.pdb
 C:\Users\eek\source\repos\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.csproj.CopyComplete
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.csprojAssemblyReference.cache
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.Form1.resources
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.Properties.Resources.resources
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.csproj.GenerateResource.cache
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.exe
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.pdb
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab3_Korotaev.exe.config
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab3_Korotaev.exe
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab3_Korotaev.pdb
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab2_Library.dll
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\bin\Debug\Lab2_Library.pdb
+Z:\mpei\PE_labs_5_semester\Lab3_Korotaev\Lab3_Korotaev\obj\Debug\Lab3_Korotaev.csproj.CopyComplete

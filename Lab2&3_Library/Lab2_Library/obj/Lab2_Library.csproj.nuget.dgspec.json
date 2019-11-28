@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eek\\source\\repos\\Lab2_Library\\Lab2_Library\\Lab2_Library.csproj": {}
+    "Z:\\mpei\\PE_labs_5_semester\\Lab2&3_Library\\Lab2_Library\\Lab2_Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eek\\source\\repos\\Lab2_Library\\Lab2_Library\\Lab2_Library.csproj": {
+    "Z:\\mpei\\PE_labs_5_semester\\Lab2&3_Library\\Lab2_Library\\Lab2_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eek\\source\\repos\\Lab2_Library\\Lab2_Library\\Lab2_Library.csproj",
+        "projectUniqueName": "Z:\\mpei\\PE_labs_5_semester\\Lab2&3_Library\\Lab2_Library\\Lab2_Library.csproj",
         "projectName": "Lab2_Library",
-        "projectPath": "C:\\Users\\eek\\source\\repos\\Lab2_Library\\Lab2_Library\\Lab2_Library.csproj",
+        "projectPath": "Z:\\mpei\\PE_labs_5_semester\\Lab2&3_Library\\Lab2_Library\\Lab2_Library.csproj",
         "packagesPath": "C:\\Users\\eek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eek\\source\\repos\\Lab2_Library\\Lab2_Library\\obj\\",
+        "outputPath": "Z:\\mpei\\PE_labs_5_semester\\Lab2&3_Library\\Lab2_Library\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\eek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -49,10 +46,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

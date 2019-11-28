@@ -80,8 +80,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Lab2_Library\Lab2_Library\Lab2_Library.csproj">
-      <Project>{7c0f4a10-bd29-435b-9917-f44cf67d6317}</Project>
+    <ProjectReference Include="..\..\Lab2&amp;3_Library\Lab2_Library\Lab2_Library.csproj">
+      <Project>{8c9b4979-acfb-44e5-b274-ce56fd9f47c5}</Project>
       <Name>Lab2_Library</Name>
     </ProjectReference>
   </ItemGroup>
