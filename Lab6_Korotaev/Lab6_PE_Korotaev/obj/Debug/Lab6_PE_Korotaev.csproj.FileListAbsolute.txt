@@ -1,0 +1,9 @@
+C:\Users\eek\source\repos\Lab6_PE_Korotaev\Lab6_PE_Korotaev\bin\Debug\Lab6_PE_Korotaev.exe.config
+C:\Users\eek\source\repos\Lab6_PE_Korotaev\Lab6_PE_Korotaev\bin\Debug\Lab6_PE_Korotaev.exe
+C:\Users\eek\source\repos\Lab6_PE_Korotaev\Lab6_PE_Korotaev\bin\Debug\Lab6_PE_Korotaev.pdb
+C:\Users\eek\source\repos\Lab6_PE_Korotaev\Lab6_PE_Korotaev\obj\Debug\Lab6_PE_Korotaev.csprojAssemblyReference.cache
+C:\Users\eek\source\repos\Lab6_PE_Korotaev\Lab6_PE_Korotaev\obj\Debug\Lab6_PE_Korotaev.Properties.Resources.resources
+C:\Users\eek\source\repos\Lab6_PE_Korotaev\Lab6_PE_Korotaev\obj\Debug\Lab6_PE_Korotaev.csproj.GenerateResource.cache
+C:\Users\eek\source\repos\Lab6_PE_Korotaev\Lab6_PE_Korotaev\obj\Debug\Lab6_PE_Korotaev.exe
+C:\Users\eek\source\repos\Lab6_PE_Korotaev\Lab6_PE_Korotaev\obj\Debug\Lab6_PE_Korotaev.pdb
+C:\Users\eek\source\repos\Lab6_PE_Korotaev\Lab6_PE_Korotaev\obj\Debug\Lab6_PE_Korotaev.Form1.resources
